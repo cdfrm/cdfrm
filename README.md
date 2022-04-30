@@ -1,3 +1,3 @@
-**Vision without action is daydream. Action without vision is nightmare..**
+**We lose ourselves in the things we love. We find ourselves there, too.**
 
-*"Japanese Proverb"*
+*"Dale Patridge"*
