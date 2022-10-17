@@ -2,4 +2,4 @@
 
 *"Henry Cloud"*
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31xzjx6v5zzz7uv7ka6wgpxoj4mq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31xzjx6v5zzz7uv7ka6wgpxoj4mq&cover_image=true&theme=default&show_offline=false&bar_color_cover=true)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xzjx6v5zzz7uv7ka6wgpxoj4mq&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
