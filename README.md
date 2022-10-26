@@ -1,3 +1,3 @@
-**Think in terms of opportunities and solutions instead of problems, disappointment, and failure.**
+**What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!**
 
-*"Lorii Myers"*
+*"Larry Page"*
