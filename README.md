@@ -1,3 +1,3 @@
-**If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not.**
+**You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.**
 
-*"Elon Musk"*
+*"Bill Murray"*
