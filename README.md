@@ -1,3 +1,3 @@
-**Luck is a dividend of sweat. The more you sweat, the luckier you get**
+**The determination to win is the better part of winning.**
 
-*"Ray Kroc"*
+*"Daisaku Ikeda"*
