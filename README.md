@@ -1,3 +1,3 @@
-**The determination to win is the better part of winning.**
+**Do the best you can until you know better. Then when you know better, do better.**
 
-*"Daisaku Ikeda"*
+*"Maya Angelou"*
