@@ -16,9 +16,11 @@ try {
 
 
     $author = $contents['contents']['quotes'][0]['author'];
-    $author = '*"' . $author . '"*';
+    $author = '*"' . $author . '"*' . "\n\n";
+    
+    $badge = "![](https://api.nosense.lol/ghvc/?username=cdfrm)";
 
-    file_put_contents("README.md",$quote . $author);
+    file_put_contents("README.md",$quote . $author . $badge);
 
 } catch (Exception $e) {
     echo $e->getMessage();
