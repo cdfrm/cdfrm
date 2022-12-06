@@ -1,5 +1,5 @@
-**You will never win if you never begin.**
+**Do not let what you cannot do interfere with what you can do.**
 
-*"Helen Rowland"*
+*"John Wooden"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
