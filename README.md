@@ -1,5 +1,5 @@
-**Once your excuses are gone, you will simply have to settle for being awesome!**
+**Only a man who knows what it is like to be defeated can reach down to the bottom of his soul and come up with the extra ounce of power it takes to win when the match is even.**
 
-*"Lorii Myers"*
+*"Mohamad Ali"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
