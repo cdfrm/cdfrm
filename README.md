@@ -1,5 +1,5 @@
-**Whether you think you can or think you can't, you're right..**
+**Find a purpose in life so big it will challenge every capacity to be at your best.**
 
-*"Henry Ford"*
+*"David O. McKay"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
