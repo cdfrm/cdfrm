@@ -1,5 +1,5 @@
-**Find a purpose in life so big it will challenge every capacity to be at your best.**
+**Let our advance worrying become advance thinking and planning.**
 
-*"David O. McKay"*
+*"Winston Churchill"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
