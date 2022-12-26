@@ -1,5 +1,5 @@
-**Let our advance worrying become advance thinking and planning.**
+**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**
 
-*"Winston Churchill"*
+*"Lorii Myers"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
