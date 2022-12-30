@@ -1,5 +1,5 @@
-**He who is not courageous enough to take risks will accomplish nothing in life.**
+**If I work as hard as I can, I wonder how much I can do in a day?**
 
-*"Mohamad Ali"*
+*"Ezra Taft Benson"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
