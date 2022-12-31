@@ -1,5 +1,5 @@
-**If I work as hard as I can, I wonder how much I can do in a day?**
+**Extend beyond your preconceived limits!**
 
-*"Ezra Taft Benson"*
+*"Lorii Myers"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
