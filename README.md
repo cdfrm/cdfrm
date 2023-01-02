@@ -1,5 +1,5 @@
-**You must have a positive self perception in order to transcend anything.**
+**Excellence prospers in the absence of excuses.**
 
-*"Steve Maraboli"*
+*"Lorii Myers"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
