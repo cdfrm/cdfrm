@@ -1,5 +1,5 @@
-**Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success.**
+**The idea that everyone should slavishly work so they do something inefficiently so they keep their job - that just doesn't make any sense to me. That can't be the right answer.**
 
-*"Vince Lombardi"*
+*"Larry Page"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
