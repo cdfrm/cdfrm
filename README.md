@@ -1,5 +1,5 @@
-**I know for sure that what we dwell on is who we become.**
+**Winners lose much more often than losers. So if you keep losing but you're still trying, keep it up! You.. Re right on track.**
 
-*"Oprah Winfrey"*
+*"Matthew Keith Groves"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
