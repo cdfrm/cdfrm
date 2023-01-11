@@ -1,5 +1,5 @@
-**A man who has no imagination has no wings.**
+**The journey of a thousand miles begins with one step.**
 
-*"Mohamad Ali"*
+*"Lao Tzu"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
