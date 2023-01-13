@@ -1,5 +1,5 @@
-**Winning is nice if you don't lose your integrity in the process.**
+**Winning is not everything, but the effort to win is.**
 
-*"Arnold Horshak"*
+*"Zig Ziglar"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
