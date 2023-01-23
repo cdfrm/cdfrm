@@ -1,5 +1,5 @@
-**Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.**
+**Winning is nice if you don't lose your integrity in the process.**
 
-*"Henry David Thoreau"*
+*"Arnold Horshak"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
