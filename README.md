@@ -1,5 +1,5 @@
-**There's such a thin line between winning and losing.**
+**Some men see things as they are and say why.. I dream things that never were and say why not.**
 
-*"John R. Tunis"*
+*"George Bernard Shaw"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
