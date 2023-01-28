@@ -1,5 +1,5 @@
-**I am an optimist. It does not seem too much use being anything else..**
+**Stop complaining. Start creating.**
 
-*"Winston Churchill"*
+*"Dale Patridge"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
