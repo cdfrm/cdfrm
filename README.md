@@ -1,5 +1,5 @@
-**If we ever stop thinking about the person we want to become, we stop learning and taking risks.**
+**Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.**
 
-*"Sally Blount"*
+*"Charles F. Kettering"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
