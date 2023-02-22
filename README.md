@@ -1,5 +1,5 @@
-**Stop complaining. Start creating.**
+**If you cannot do great things, do small things in a great way.**
 
-*"Dale Patridge"*
+*"Napoleon Hill"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
