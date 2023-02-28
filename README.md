@@ -1,5 +1,5 @@
-**The man who has confidence in himself gains the confidence of others.**
+**It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.**
 
-*"Hasidic Proverb"*
+*"Dale Carnegie"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
