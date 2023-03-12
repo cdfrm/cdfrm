@@ -1,5 +1,5 @@
-**Some men see things as they are and say why.. I dream things that never were and say why not.**
+**Winning is nice if you don't lose your integrity in the process.**
 
-*"George Bernard Shaw"*
+*"Arnold Horshak"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
