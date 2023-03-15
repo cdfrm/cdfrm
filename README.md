@@ -1,5 +1,5 @@
-**Find a purpose in life so big it will challenge every capacity to be at your best.**
+**Own 100 percent of your focus. The most challenging of endurance drills will bring you to a level of optimal mental and physical performance.**
 
-*"David O. McKay"*
+*"Lorii Myers"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
