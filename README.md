@@ -1,5 +1,5 @@
-**I am an optimist. It does not seem too much use being anything else..**
+**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**
 
-*"Winston Churchill"*
+*"Phil Grimshaw"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
