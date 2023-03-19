@@ -1,5 +1,5 @@
-**If you like what you do, and you're lucky enough to be good at it, do it for that reason.**
+**Sustenance! Your health is always the best prescription.**
 
-*"Phil Grimshaw"*
+*"Lorii Myers"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
