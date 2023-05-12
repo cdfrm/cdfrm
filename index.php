@@ -5,7 +5,14 @@ require_once __DIR__.'/vendor/autoload.php';
 $client = new GuzzleHttp\Client();
 
 try {
-    $response = $client->get('https://quotes.rest/qod?language=en');
+    $response = $client->get(
+        'https://quotes.rest/qod?language=en',
+        [
+    'headers' => [
+        'Authorization' => 'Bearer doVXJMHMhJPSdX6OhLOgHNYa8SPGQsttqzb0FX7A',
+        'Accept' => 'application/json',
+    ]
+]);
     $contents = $response->getBody()->getContents();
 
     $contents = json_decode($contents, true);
