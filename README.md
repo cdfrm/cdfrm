@@ -1,5 +1,5 @@
-**You make a living by what you earn; you make a life by what you give.**
+**The journey of a thousand miles begins with one step.**
 
-*"Winston Churchill"*
+*"Lao Tzu"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
