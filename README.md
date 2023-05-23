@@ -1,5 +1,5 @@
-**Failure is the condiment that gives success its flavor.**
+**Named must your fear be before banish it you can.**
 
-*"Truman Capote"*
+*"Yoda"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
