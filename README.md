@@ -1,5 +1,5 @@
-**Named must your fear be before banish it you can.**
+**Logic will get you from A to B. Imagination will take you everywhere.**
 
-*"Yoda"*
+*"Albert Einstein"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
