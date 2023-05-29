@@ -1,5 +1,5 @@
-**When you win, say nothing. When you lose, say less.**
+**There's such a thin line between winning and losing.**
 
-*"Paul Brown"*
+*"John R. Tunis"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
