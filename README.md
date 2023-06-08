@@ -1,5 +1,5 @@
-**Those who know how to win are much more numerous than those who know how to make proper use of their victories**
+**When it comes to winning, you need the skill and the will.**
 
-*"Polybius"*
+*"Frank Tyger"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
