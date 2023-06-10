@@ -1,5 +1,5 @@
-**Win any way as long as you can get away with it. Nice guys finish last.**
+**Do not worry if you have built your castles in the air. They are where they should be. Now put the foundations under them.**
 
-*"Leo Durocher"*
+*"Henry David Thoreau"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
