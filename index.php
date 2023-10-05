@@ -9,7 +9,7 @@ try {
         'https://quotes.rest/qod?language=en',
         [
     'headers' => [
-        'Authorization' => 'Bearer doVXJMHMhJPSdX6OhLOgHNYa8SPGQsttqzb0FX7A',
+        'Authorization' => 'Bearer nrhaonSiHvsdOcL0ugFJP6zaCbvs4Uef8p73TQEY',
         'Accept' => 'application/json',
     ]
 ]);
