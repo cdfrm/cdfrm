@@ -1,5 +1,5 @@
-**Your life does not get better by chance. It gets better by change.**
+**Winning isn't everything.. It's the only thing.**
 
-*"Jim Rohn"*
+*"Vincent van Gogh"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
