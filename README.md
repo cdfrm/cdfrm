@@ -1,5 +1,5 @@
-**Where there is ruin, there is hope for a treasure.**
+**Remember that you are very special, no one can play your role better than you.**
 
-*"Rumi"*
+*"Damayanti Patra"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
