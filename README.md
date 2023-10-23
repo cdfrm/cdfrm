@@ -1,5 +1,5 @@
-**The man who removes a mountain begins by carrying away small stones..**
+**Vision without action is daydream. Action without vision is nightmare..**
 
-*"Chinese Proverb"*
+*"Japanese Proverb"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
