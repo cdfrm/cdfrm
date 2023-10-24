@@ -1,5 +1,5 @@
-**Vision without action is daydream. Action without vision is nightmare..**
+**I am an optimist. It does not seem too much use being anything else..**
 
-*"Japanese Proverb"*
+*"Winston Churchill"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
