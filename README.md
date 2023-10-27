@@ -1,5 +1,5 @@
-**Positive anything is better than negative thinking.**
+**Do not wait to strike till the iron is hot; but make it hot by striking..**
 
-*"Elbert Hubbard"*
+*"William B. Sprague"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
