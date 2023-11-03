@@ -1,5 +1,5 @@
-**The real opportunity for success lies within the person and not in the job.**
+**If you cannot do great things, do small things in a great way.**
 
-*"Zig Ziglar"*
+*"Napoleon Hill"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
