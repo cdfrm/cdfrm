@@ -1,5 +1,5 @@
-**Some men see things as they are and say why.. I dream things that never were and say why not.**
+**We hold ourselves back in ways both big and small, by lacking self-confidence, by not raising our hands, and by pulling back when we should be leaning in.**
 
-*"George Bernard Shaw"*
+*"Sheryl Sandberg"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
