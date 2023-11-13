@@ -1,5 +1,5 @@
-**Great leadership does not mean running away from reality. Sometimes the hard truths might just demoralize the company, but at other times sharing difficulties can inspire people to take action that will make the situation better.**
+**Winning is not everything, but the effort to win is.**
 
-*"John Kotter"*
+*"Zig Ziglar"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
