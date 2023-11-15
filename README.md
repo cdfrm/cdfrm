@@ -1,5 +1,5 @@
-**Winning is nice if you don't lose your integrity in the process.**
+**Failure is the condiment that gives success its flavor.**
 
-*"Arnold Horshak"*
+*"Truman Capote"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
