@@ -1,5 +1,5 @@
-**The real winners in life are the people who look at every situation with an expectation that they can make it work or make it better**
+**A quitter never wins and a winner never quits**
 
-*"Barbara Pletcher"*
+*"Napoleon Hill"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
