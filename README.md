@@ -1,5 +1,5 @@
-**A quitter never wins and a winner never quits**
+**Your life does not get better by chance. It gets better by change.**
 
-*"Napoleon Hill"*
+*"Jim Rohn"*
 
 ![](https://api.nosense.lol/ghvc/?username=cdfrm)
